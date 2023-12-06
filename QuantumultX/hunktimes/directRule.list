@@ -1,5 +1,10 @@
 # AUTHOR: stupidzhang
 # DESC: Self
+
+# stupidzhanng
+HOST-KEYWORD,stupidzhang,DIRECT
+
+# hunktimes
 HOST-SUFFIX,hunktimes.com,DIRECT
 HOST,dualstack-restios.amap.com,DIRECT
 HOST,vdata.amap.com,DIRECT
