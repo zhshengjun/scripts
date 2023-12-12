@@ -1,6 +1,9 @@
 # AUTHOR: stupidzhang
 # DESC: Self
 
+# NET
+IP-CIDR,10.219.168.0/24,DIRECT
+
 # stupidzhanng
 HOST-KEYWORD,stupidzhang,DIRECT
 
