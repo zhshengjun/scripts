@@ -2,7 +2,9 @@
 # DESC: Self
 
 # apple
-HOST-WILDCARD,(?:apple|icloud|itunes|iphone),DIRECT
+HOST-KEYWORD,icloud,DIRECT
+HOST-KEYWORD,itunes,DIRECT
+HOST-KEYWORD,iphone,DIRECT
 USER-AGENT,*FindMyiPhone?,DIRECT
 
 # NET
