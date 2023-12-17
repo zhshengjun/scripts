@@ -23,3 +23,6 @@ HOST,webapi.amap.com,DIRECT
 HOST,ulogs.umenng.com,DIRECT
 HOST,l.gm.mob.com,DIRECT
 HOST,api.share.mob.com,DIRECT
+
+# speedtest
+HOST-KEYWORD,speedtest,DIRECT
