@@ -1,6 +1,9 @@
 # AUTHOR: stupidzhang
 # DESC: Self
 
+# apple
+HOST-KEYWORD,apple,DIRECT
+
 # NET
 IP-CIDR,10.219.168.0/24,DIRECT
 
