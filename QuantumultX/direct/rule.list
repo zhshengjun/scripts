@@ -15,14 +15,17 @@ IP-CIDR,10.219.168.0/24,DIRECT
 HOST-KEYWORD,stupidzhang,DIRECT
 
 # hunktimes
-HOST-SUFFIX,hunktimes.com,DIRECT
-HOST,dualstack-restios.amap.com,DIRECT
-HOST,vdata.amap.com,DIRECT
-HOST,restapi.amap.com,DIRECT
-HOST,webapi.amap.com,DIRECT
-HOST,ulogs.umenng.com,DIRECT
-HOST,l.gm.mob.com,DIRECT
-HOST,api.share.mob.com,DIRECT
+HOST-SUFFIX,m3.seeyou.com,DIRECT
+HOST-SUFFIX,oa.hunktimes.com,DIRECT
+HOST-SUFFIX,dualstack-restios.amap.com,DIRECT
+HOST-SUFFIX,vdata.amap.com,DIRECT
+HOST-SUFFIX,restapi.amap.com,DIRECT
+HOST-SUFFIX,webapi.amap.com,DIRECT
+HOST-SUFFIX,umeng.com,DIRECT
+HOST-SUFFIX,gm.mob.com,DIRECT
+HOST-SUFFIX,share.mob.com,DIRECT
+HOST-SUFFIX,autonavi.com,DIRECT
+HOST,ios.bugly.qq.com,DIRECT
 
 # speedtest
 HOST-KEYWORD,speedtest,DIRECT
