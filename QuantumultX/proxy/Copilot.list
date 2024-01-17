@@ -1,0 +1,12 @@
+# AUTHOR: stupidzhang
+# DESC: Self
+
+HOST,copilot.microsoft.com,Copilot
+HOST,odc.officeapps.live.com,Copilot
+HOST,api.msn.com,Copilot
+HOST,assets.msn.com,Copilot
+HOST,self.events.data.microsoft.com,Copilot
+HOST,location.microsoft.com,Copilot
+HOST-SUFFIX,bing.com,Copilot
+HOST-SUFFIX,microsoftapp.net,Copilot
+HOST-SUFFIX,bing-shopping.microsoft-falcon.io,Copilot
