@@ -1,6 +1,10 @@
 # AUTHOR: stupidzhang
 # DESC: Self
 
+# 银联
+HOST-SUFFIX,cup.com.cn,DIRECT
+HOST-SUFFIX,95516.com,DIRECT
+
 # apple
 HOST-KEYWORD,apple,DIRECT
 HOST-KEYWORD,icloud,DIRECT
