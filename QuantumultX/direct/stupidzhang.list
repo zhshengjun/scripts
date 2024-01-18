@@ -27,3 +27,6 @@ HOST,ios.bugly.qq.com,DIRECT
 
 # speedtest
 HOST-KEYWORD,speedtest,DIRECT
+
+# 10086
+HOST-SUFFIX,10086.com,DIRECT
