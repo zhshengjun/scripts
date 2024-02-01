@@ -8,6 +8,6 @@ HOST,assets.msn.com,Copilot
 HOST,self.events.data.microsoft.com,Copilot
 HOST,location.microsoft.com,Copilot
 HOST,sysney.bing.com,Copilot
-HOST-SUFFIX,bing.com,Copilot
+HOST,edgeservices.bing.com,Copilot
 HOST-SUFFIX,microsoftapp.net,Copilot
 HOST-SUFFIX,bing-shopping.microsoft-falcon.io,Copilot
