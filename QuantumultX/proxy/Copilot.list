@@ -11,3 +11,4 @@ HOST,sysney.bing.com,Copilot
 HOST,edgeservices.bing.com,Copilot
 HOST-SUFFIX,microsoftapp.net,Copilot
 HOST-SUFFIX,bing-shopping.microsoft-falcon.io,Copilot
+HOST-SUFFIX,bing.com,Copilot
