@@ -1,13 +1,10 @@
 # AUTHOR: stupidzhang
 # DESC: Self
+# Date: 2024-04-09
 
 # 银联
 HOST-SUFFIX,cup.com.cn,DIRECT
 HOST-SUFFIX,95516.com,DIRECT
-
-# Apple
-HOST-KEYWORD,apple,DIRECT
-HOST-KEYWORD,icloud,DIRECT
 
 # NET
 HOST-SUFFIX,netease.com,DIRECT
@@ -24,9 +21,3 @@ HOST-SUFFIX,umeng.com,DIRECT
 HOST-SUFFIX,mob.com,DIRECT
 HOST-SUFFIX,autonavi.com,DIRECT
 HOST,ios.bugly.qq.com,DIRECT
-
-# speedtest
-HOST-KEYWORD,speedtest,DIRECT
-
-# 10086
-HOST-SUFFIX,10086.com,DIRECT
