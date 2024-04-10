@@ -21,3 +21,6 @@ HOST-SUFFIX,umeng.com,DIRECT
 HOST-SUFFIX,mob.com,DIRECT
 HOST-SUFFIX,autonavi.com,DIRECT
 HOST,ios.bugly.qq.com,DIRECT
+
+#hub
+IP-CIDR,172.233.81.206,DIRECT
