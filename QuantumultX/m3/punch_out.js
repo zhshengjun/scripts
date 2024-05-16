@@ -5,7 +5,6 @@
 const crypto = require("crypto");
 
 
-
 const url = 'http://oa.hunktimes.com:9999/mobile_portal/seeyon/rest/attendance/save/m3?option.n_a_s=1';
 
 const method = 'POST';
@@ -14,12 +13,16 @@ const hostname = 'oa.hunktimes.com:9999';
 const ticket = 'JSESSIONID=78382FE1534299BEBEFB706AE1357286';
 
 
-const myRequest = createMyRequest(
-    () => url,
-    () => method,
-    () => dynamicHeadersFunction(),
-    () => dynamicBodyFunction()
-);
+const myRequest = {
+    url: url,
+    method: method,
+    get headers() {
+        return dynamicHeadersFunction();
+    },
+    get body() {
+        return dynamicBodyFunction();
+    }
+}
 
 function dynamicHeadersFunction() {
     // 在这里进行逻辑操作，获取需要的头信息
@@ -91,22 +94,11 @@ function dynamicBodyFunction() {
     return params;
 }
 
-
-function createMyRequest(url, method, headers, body) {
-    return {
-        url: url(),
-        method: method(),
-        headers: headers(),
-        body: body()
-    };
-}
-
 $task.fetch(myRequest).then(response => {
     console.log(response.statusCode + '\n\n' + response.body);
     $done();
 
 }, reason => {
-
     console.log(reason.error);
     $done();
 
