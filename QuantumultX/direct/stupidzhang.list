@@ -13,6 +13,9 @@ IP-CIDR,10.219.168.0/24,DIRECT
 # stupidzhanng
 HOST-KEYWORD,stupidzhang,DIRECT
 
+# linux.do
+HOST-SUFFIX,linux.do,DIRECT
+
 # M3
 HOST-SUFFIX,m3.seeyou.com,DIRECT
 HOST-SUFFIX,hunktimes.com,DIRECT
