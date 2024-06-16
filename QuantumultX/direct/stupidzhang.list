@@ -14,7 +14,7 @@ IP-CIDR,10.219.168.0/24,DIRECT
 HOST-KEYWORD,stupidzhang,DIRECT
 
 # linux.do
-HOST-SUFFIX,linux.do,DIRECT
+# HOST-SUFFIX,linux.do,DIRECT
 
 # M3
 HOST-SUFFIX,m3.seeyou.com,DIRECT
