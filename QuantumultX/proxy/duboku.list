@@ -2,3 +2,7 @@
 # DESC: Self
 
 HOST-KEYWORD,duboku,PROXY
+
+
+# linux.do
+HOST-SUFFIX,linux.do,PROXY
