@@ -15,6 +15,7 @@ HOST-KEYWORD,stupidzhang,DIRECT
 
 # linux.do
 # HOST-SUFFIX,linux.do,DIRECT
+HOST-KEYWORD,aicnn,DIRECT
 
 # M3
 HOST-SUFFIX,m3.seeyou.com,DIRECT
