@@ -5,3 +5,6 @@ HOST-KEYWORD,boku,PROXY
 
 # linux.do
 HOST-SUFFIX,linux.do,PROXY
+
+# yingmiwo.cloudns.be
+HOST-SUFFIX,yingmiwo.cloudns.be,PROXY
