@@ -27,5 +27,8 @@ HOST-SUFFIX,mob.com,DIRECT
 HOST-SUFFIX,autonavi.com,DIRECT
 HOST,ios.bugly.qq.com,DIRECT
 
+# VIDEo
+HOST-SUFFIX,boju.cc,DIRECT
+
 # HUB
 # IP-CIDR,172.233.81.206/32,DIRECT
