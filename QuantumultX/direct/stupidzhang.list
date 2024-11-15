@@ -30,7 +30,12 @@ HOST,ios.bugly.qq.com,DIRECT
 # VIDEO
 HOST-SUFFIX,boju.cc,DIRECT
 HOST-SUFFIX,djxq.cc,DIRECT
+HOST-SUFFIX,91ju.cc,DIRECT
 HOST-SUFFIX,c1.7bbffvip.com,DIRECT
+HOST-SUFFIX,huohua.live,DIRECT
+
+HOST-SUFFIX,wxsnsencsvp.wxs.qq.com,REJECT
+
 
 # HUB
 # IP-CIDR,172.233.81.206/32,DIRECT
