@@ -15,16 +15,17 @@ HOST-KEYWORD,stupidzhang,DIRECT
 
 # linux.do
 # HOST-SUFFIX,linux.do,DIRECT
-HOST-KEYWORD,aicnn,DIRECT
-HOST-KEYWORD,aivvm,DIRECT
 
 # M3
 HOST-SUFFIX,m3.seeyou.com,DIRECT
-HOST-SUFFIX,hunktimes.com,DIRECT
-HOST-SUFFIX,amap.com,DIRECT
+HOST-SUFFIX,oa.hunktimes.com,DIRECT
+HOST-SUFFIX,vdta.amap.com,DIRECT
+HOST-SUFFIX,restapi.amap.com,DIRECT
+HOST-SUFFIX,webapi.amap.com,DIRECT
+HOST-SUFFIX,dualstack-restios.amap.com,DIRECT
 HOST-SUFFIX,umeng.com,DIRECT
 HOST-SUFFIX,mob.com,DIRECT
-HOST-SUFFIX,autonavi.com,DIRECT
+HOST-SUFFIX,is.autonavi.com,DIRECT
 HOST,ios.bugly.qq.com,DIRECT
 
 # VIDEO
