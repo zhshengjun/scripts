@@ -93,7 +93,6 @@ if (url.includes("/note/imagefeed?") || url.includes("/note/feed?")) {
       obj.data[0].note_list[0].images_list = imageEnhance(JSON.stringify(images_list));
       // 保存无水印信息
       $.setdata(JSON.stringify(images_list), "fmz200.xiaohongshu.feed.rsp");
-      console.log('已存储无水印信息♻️');
     }
   }
 } 
@@ -190,10 +189,12 @@ if (url.includes("/v4/note/videofeed")) {
         newDatas.push(myData);
       }
     }
-    $.setdata(JSON.stringify(newDatas), "redBookVideoFeed"); // 普通视频 写入持久化存储
+     // 普通视频 写入持久化存储
+    $.setdata(JSON.stringify(newDatas), "redBookVideoFeed");
   }
   let cache = $.getdata("redBookVideoFeedUnlock");
-  let videoFeedUnlock = {notSave: "fmz200"}; // 禁止保存的视频 读取持久化存储
+  // 禁止保存的视频 读取持久化存储
+  let videoFeedUnlock = {notSave: "fmz200"}; 
   if (videoFeedUnlock?.notSave === "fmz200") {
     if (obj?.data?.length > 0) {
       for (let item of obj.data) {
@@ -206,7 +207,8 @@ if (url.includes("/v4/note/videofeed")) {
         }
       }
     }
-    $.setdata(JSON.stringify(unlockDatas), "redBookVideoFeedUnlock"); // 禁止保存的视频 写入持久化存储
+     // 禁止保存的视频 写入持久化存储
+    $.setdata(JSON.stringify(unlockDatas), "redBookVideoFeedUnlock");
   }
 }
 
@@ -268,7 +270,6 @@ if (url.includes("/v6/homefeed")) {
     for (let item of obj.data) {
       if (item?.model_type === "live_v2") {
         // 信息流-直播
-
       } else if (item?.hasOwnProperty("ads_info")) {
         // 信息流-赞助
 
@@ -294,9 +295,7 @@ $done({body: JSON.stringify(obj)});
 // 小红书画质增强：加载2K分辨率的图片
 function imageEnhance(jsonStr) {
   // 原始分辨率，PNG格式的图片，占用空间比较大
-  console.log("画质修改为-原始分辨率");
   jsonStr = jsonStr.replace(/\?imageView2\/2[^&]*(?:&redImage\/frame\/0)/, "?imageView2/0/format/png&redImage/frame/0");
-  console.log('图片画质增强完成✅');
   return JSON.parse(jsonStr);
 }
 
