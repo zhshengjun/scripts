@@ -5,6 +5,7 @@
 # 银联
 HOST-SUFFIX,cup.com.cn,DIRECT
 HOST-SUFFIX,95516.com,DIRECT
+HOST-SUFFIX,fuwu.nhsa.gov.cn,DIRECT
 
 # NET
 HOST-SUFFIX,netease.com,DIRECT
