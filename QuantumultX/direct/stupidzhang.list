@@ -7,8 +7,7 @@ HOST-SUFFIX,cup.com.cn,DIRECT
 HOST-SUFFIX,95516.com,DIRECT
 
 # 政务
-HOST-SUFFIX,fuwu.nhsa.gov.cn,DIRECT
-HOST-SUFFIX,zjzwfw.gov.cn,DIRECT
+HOST-SUFFIX,gov.cn,DIRECT
 
 # NET
 HOST-SUFFIX,netease.com,DIRECT
