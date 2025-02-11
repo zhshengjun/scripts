@@ -2,19 +2,19 @@
 # DESC: Self
 # Date: 2024-04-09
 
+# 政务
+HOST-SUFFIX,gov.cn,DIRECT
+
 # 银联
 HOST-SUFFIX,cup.com.cn,DIRECT
 HOST-SUFFIX,95516.com,DIRECT
 
-# 政务
-HOST-SUFFIX,gov.cn,DIRECT
+# stupidzhanng
+HOST-KEYWORD,stupidzhang,DIRECT
 
 # NET
 HOST-SUFFIX,netease.com,DIRECT
 IP-CIDR,10.219.168.0/24,DIRECT
-
-# stupidzhanng
-HOST-KEYWORD,stupidzhang,DIRECT
 
 # linux.do
 # HOST-SUFFIX,linux.do,DIRECT
