@@ -19,6 +19,9 @@ IP-CIDR,10.219.168.0/24,DIRECT
 # linux.do
 # HOST-SUFFIX,linux.do,DIRECT
 
+# 大模型检测
+HOST-SUFFIX,matrix.tencent.com,DIRECT
+
 # M3
 HOST-SUFFIX,m3.seeyou.com,DIRECT
 HOST-SUFFIX,oa.hunktimes.com,DIRECT
