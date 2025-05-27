@@ -16,6 +16,22 @@ HOST-SUFFIX,bnbstatic.com,Binance
 HOST-SUFFIX,bnbzh.ac,Binance
 HOST-SUFFIX,bntrace.com,Binance
 HOST-SUFFIX,mokexapp.me,Binance
+HOST-SUFFIX,nftstatic.com,Binance
+
+# Related Domains
+HOST,m.api.forter.com,Binance
+HOST,addfd325e6e3.cdn4.forter.com,Binance
+HOST,crt.r2m01.amazontrust.com,Binance
+HOST,crt.rootca1.amazontrust.com,Binance
+HOST,crt.rootg2.amazontrust.com,Binance
+HOST,d3sknckuh1o9tg.cloudfront.net,Binance
+HOST,public-1306379396.file.myqcloud.com,Binance
+HOST,static-file-1306379396.file.myqcloud.com,Binance
+HOST,domain-config-1306379396.file.myqcloud.com,Binance
+HOST,b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com,Binance
+HOST,bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com,Binance
+HOST,aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com,Binance
+
 
 IP-CIDR,47.107.98.27/32,Binance
 IP-CIDR,47.107.127.135/32,Binance
