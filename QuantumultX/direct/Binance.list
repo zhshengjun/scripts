@@ -1,13 +1,12 @@
 # NAME: Binance
 # AUTHOR: stupidzhang
 # UPDATED: 2025-05-27
-# HOST-SUFFIX: 10
-# TOTAL: 12
+# HOST-SUFFIX: 9
+# TOTAL: 11
 
 HOST-KEYWORD,binance,Binance
 HOST-KEYWORD,saasexch,Binance
 HOST-SUFFIX,appsflayer.com,Binance
-HOST-SUFFIX,cloudfront.net,Binance
 HOST-SUFFIX,file.myqcloud.con,Binance
 HOST-SUFFIX,binancecnt.com,Binance
 HOST-SUFFIX,binancefuture.com,Binance
