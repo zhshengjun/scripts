@@ -34,5 +34,8 @@ HOST-SUFFIX,mob.com,DIRECT
 HOST-SUFFIX,is.autonavi.com,DIRECT
 HOST,ios.bugly.qq.com,DIRECT
 
+# times
+HOST-SUFFIX,times.is,DIRECT
+
 # HUB
 # IP-CIDR,172.233.81.206/32,DIRECT
