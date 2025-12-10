@@ -10,14 +10,12 @@ HOST-SUFFIX,cup.com.cn,DIRECT
 HOST-SUFFIX,95516.com,DIRECT
 
 # stupidzhanng
-HOST-KEYWORD,stupidzhang,DIRECT
+HOST-KEYWORD,synology,DIRECT
+HOST-SUFFIX,stupidzhang.com,DIRECT
 
 # NET
 HOST-SUFFIX,netease.com,DIRECT
 IP-CIDR,10.219.168.0/24,DIRECT
-
-# linux.do
-# HOST-SUFFIX,linux.do,DIRECT
 
 # 大模型检测
 HOST-SUFFIX,matrix.tencent.com,DIRECT
