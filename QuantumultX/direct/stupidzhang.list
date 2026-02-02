@@ -14,6 +14,7 @@ HOST-KEYWORD,synology,DIRECT
 HOST-SUFFIX,stupidzhang.com,DIRECT
 
 # NET
+HOST-KEYWORD,ds.cn-gz-p1.internal,DIRECT
 HOST-SUFFIX,netease.com,DIRECT
 IP-CIDR,10.219.168.0/24,DIRECT
 
