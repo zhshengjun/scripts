@@ -1,8 +1,0 @@
-# AUTHOR: stupidzhang
-# DESC: Self
-
-HOST-KEYWORD,duboku,PROXY
-HOST-KEYWORD,boku,PROXY
-
-# linux.do
-HOST-SUFFIX,linux.do,PROXY
