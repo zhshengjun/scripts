@@ -12,26 +12,10 @@ HOST-SUFFIX,95516.com,DIRECT
 # stupidzhanng
 HOST-KEYWORD,synology,DIRECT
 HOST-SUFFIX,stupidzhang.com,DIRECT
-
-# NET
-HOST-KEYWORD,ds.cn-gz-p1.internal,DIRECT
-HOST-SUFFIX,netease.com,DIRECT
-IP-CIDR,10.219.168.0/24,DIRECT
+HOST-SUFFIX,stupidzhang.online,DIRECT
 
 # 大模型检测
 HOST-SUFFIX,matrix.tencent.com,DIRECT
-
-# M3
-HOST-SUFFIX,m3.seeyou.com,DIRECT
-HOST-SUFFIX,oa.hunktimes.com,DIRECT
-HOST-SUFFIX,vdta.amap.com,DIRECT
-HOST-SUFFIX,restapi.amap.com,DIRECT
-HOST-SUFFIX,webapi.amap.com,DIRECT
-HOST-SUFFIX,dualstack-restios.amap.com,DIRECT
-HOST-SUFFIX,umeng.com,DIRECT
-HOST-SUFFIX,mob.com,DIRECT
-HOST-SUFFIX,is.autonavi.com,DIRECT
-HOST,ios.bugly.qq.com,DIRECT
 
 # times
 HOST-SUFFIX,times.is,DIRECT
