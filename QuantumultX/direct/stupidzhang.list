@@ -14,11 +14,8 @@ HOST-KEYWORD,synology,DIRECT
 HOST-SUFFIX,stupidzhang.com,DIRECT
 HOST-SUFFIX,stupidzhang.online,DIRECT
 
-# 大模型检测
-HOST-SUFFIX,matrix.tencent.com,DIRECT
-
-# times
-HOST-SUFFIX,times.is,DIRECT
+# jmssub
+HOST-SUFFIX,jmssub.net,DIRECT
 
 # HUB
 # IP-CIDR,172.233.81.206/32,DIRECT
