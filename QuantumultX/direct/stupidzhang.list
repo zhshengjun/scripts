@@ -20,3 +20,6 @@ HOST-SUFFIX,jmssub.net,DIRECT
 # speolia
 HOST-KEYWORD,pk910,DIRECT
 HOST-SUFFIX,pk910.de,DIRECT
+
+# bscscan
+HOST-SUFFIX,bscscan.com,DIRECT
