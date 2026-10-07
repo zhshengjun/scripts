@@ -14,9 +14,6 @@ HOST-KEYWORD,synology,DIRECT
 HOST-SUFFIX,stupidzhang.com,DIRECT
 HOST-SUFFIX,stupidzhang.online,DIRECT
 
-# jmssub
-HOST-SUFFIX,jmssub.net,DIRECT
-
 # speolia
 HOST-KEYWORD,pk910,DIRECT
 HOST-SUFFIX,pk910.de,DIRECT
