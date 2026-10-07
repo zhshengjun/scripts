@@ -2,8 +2,3 @@
 # DESC: Self
 
 HOST-SUFFIX,stupidzhang.online,PROXY
-
-# Docker
-HOST-SUFFIX,docker.io,PROXY
-
-
